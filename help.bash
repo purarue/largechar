@@ -1,5 +1,5 @@
 usage="Displays large characters on your screen
-https://github.com/seanbreckenridge/largechar
+https://github.com/purarue/largechar
 
 Usage:
   largechar [-h|--help]

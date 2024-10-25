@@ -2,7 +2,7 @@
 
 Displays the passed string as the entire screen.
 
-<img src="https://raw.githubusercontent.com/seanbreckenridge/largechar/master/.github/demo.gif" alt="largechar demo gif">
+<img src="https://raw.githubusercontent.com/purarue/largechar/master/.github/demo.gif" alt="largechar demo gif">
 
 This is a replacement for Alfred's [LargeType](https://www.alfredapp.com/help/features/large-type/).
 
@@ -11,7 +11,7 @@ This is a replacement for Alfred's [LargeType](https://www.alfredapp.com/help/fe
 Requires: [`yarn`](https://yarnpkg.com/lang/en/docs/install/#debian-stable)
 
 ```
-git clone https://github.com/seanbreckenridge/largechar
+git clone https://github.com/purarue/largechar
 cd largechar
 make
 make install
@@ -23,7 +23,7 @@ Note: This is an electron app, but it doesn't build as an application, I just ru
 
 ```
 Displays large characters on your screen
-https://github.com/seanbreckenridge/largechar
+https://github.com/purarue/largechar
 
 Usage:
   largechar [-h|--help]

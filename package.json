@@ -6,11 +6,11 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/seanbreckenridge/largechar",
+  "repository": "https://github.com/purarue/largechar",
   "keywords": [
     "display"
   ],
-  "author": "https://github.com/seanbreckenridge/",
+  "author": "https://github.com/purarue/",
   "license": "MIT",
   "dependencies": {
     "electron": "==9.4.4"
